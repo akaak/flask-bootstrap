@@ -27,3 +27,5 @@ bootstrap resources, and have predefined blocks where you can put your content.
 As of version 3, Flask-Bootstrap has a `proper documentation
 <http://pythonhosted.org /Flask-Bootstrap>`_, which you can check for more
 details.
+
+Forked from https://github.com/mbr/flask-bootstrap
